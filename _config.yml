@@ -24,8 +24,8 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Samar Haider"
   pronouns         : # example: "she/her"  
-  bio              : #
-  location         : "Philadelphia, PA"
+  bio              : ""
+  location         : #
   employer         : #
   uri              : # URL
   email            : "samarh@seas.upenn.edu"
